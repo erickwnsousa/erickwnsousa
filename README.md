@@ -20,7 +20,7 @@
 
 Toda empresa perde dinheiro em algum ponto que ninguém está olhando. Meu trabalho começa aí:
 
-1. **Enxergar de fora:** cruzo dados públicos (Google, avaliações, Receita Federal, IBGE) para ver como o negócio aparece para o mercado.
+1. **Enxergar de fora:** cruzo dados públicos de mercado para ver como o negócio aparece para os clientes e frente à concorrência.
 2. **Entrar na empresa:** leio a operação e os números de cada etapa para achar as lacunas, o faturamento possível que ainda não acontece.
 3. **Construir o que falta:** sistemas, CRM, automações, agentes de IA, sites e marketing ligado à venda. Tudo sob medida.
 
@@ -31,7 +31,7 @@ Toda empresa perde dinheiro em algum ponto que ninguém está olhando. Meu traba
     <td width="50%" valign="top">
       <img src="assets/agentes.jpg" alt="Escritório dos agentes de IA da Ubia"><br>
       <b>Operação com agentes de IA</b><br>
-      16 agentes organizados por departamento tocam a rotina interna da Ubia, com aprovação humana no que importa.
+      Equipe de agentes de IA que toca a rotina interna da Ubia, com aprovação humana no que importa.
     </td>
     <td width="50%" valign="top">
       <img src="assets/finance.jpg" alt="Ubia Finance"><br>
@@ -43,24 +43,24 @@ Toda empresa perde dinheiro em algum ponto que ninguém está olhando. Meu traba
     <td width="50%" valign="top">
       <img src="assets/hub.jpg" alt="Hub Ubia"><br>
       <b>Hub Ubia</b><br>
-      Prospecção com dados públicos e CRM pelo WhatsApp: cada lead chega com evidência do problema antes do primeiro contato.
+      Plataforma própria para encontrar, entender e acompanhar clientes: prospecção qualificada e CRM num só painel.
     </td>
     <td width="50%" valign="top">
       <img src="assets/ecossistema.jpg" alt="Ecossistema digital para estética e bem-estar"><br>
       <b>Ecossistema para estética e bem-estar</b><br>
-      Site com agendamento, agenda unificada, funil de relacionamento, conversas de WhatsApp, Instagram e Messenger num lugar só e agentes de IA no atendimento.
+      Site com agendamento, sistema interno de gestão e atendimento unificado com apoio de IA, desenhados a partir do diagnóstico da operação.
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <img src="assets/social-analytics.jpg" alt="Ubia Social Analytics" width="100%"><br>
       <b>Ubia Social Analytics</b><br>
-      Hub de Instagram construído sobre o IG Automations (open source): DM automática por palavra-chave com rastreio de entrega, métricas diárias, alertas e plano de ação a partir dos números do perfil.
+      Hub de Instagram construído sobre o IG Automations (open source): respostas automáticas no direct, métricas do perfil e recomendações de conteúdo.
     </td>
   </tr>
 </table>
 
-<sub>Prints reais dos sistemas. Nomes de clientes desfocados.</sub>
+<sub>Prints reais dos sistemas. Dados internos e de clientes desfocados.</sub>
 
 ### Ferramentas do dia a dia
 
