@@ -36,7 +36,7 @@ Toda empresa perde dinheiro em algum ponto que ninguém está olhando. Meu traba
     <td width="50%" valign="top">
       <img src="assets/finance.jpg" alt="Ubia Finance"><br>
       <b>Ubia Finance</b><br>
-      Finanças pessoais e da empresa no navegador: orçamento, dívidas com juros, cartão e o que o gasto de hoje teria virado no CDI.
+      Finanças pessoais e da empresa no navegador: orçamento, dívidas com juros, cartão e recursos exclusivos sobre para onde os seus hábitos estão te levando.
     </td>
   </tr>
   <tr>
