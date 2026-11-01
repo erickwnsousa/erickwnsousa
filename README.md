@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://grupoubia.com.br"><img src="https://img.shields.io/badge/grupoubia.com.br-0B0B0B?style=for-the-badge&logoColor=C6FF00" alt="Site"></a>
-  <a href="https://www.linkedin.com/in/erick-wendel-83b2512a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/erickwnsousa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/sousa.builds/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
@@ -81,4 +81,5 @@ Toda empresa perde dinheiro em algum ponto que ninguém está olhando. Meu traba
 
 ---
 
-<p align="center"><b>Enxergamos antes. Crescemos juntos.</b></p>
+<p align="center"><b>Enxergamos antes. Crescemos juntos.</b><br>
+<sub>Feito pela <a href="https://grupoubia.com.br">Ubia Intelligence</a></sub></p>
